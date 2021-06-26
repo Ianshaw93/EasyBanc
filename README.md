@@ -1,6 +1,8 @@
 # EasyBanc
 Facial recognition module for a banking app made within 48hr period during a fintech hackathon.  
 
+Youtube demo: https://www.youtube.com/watch?v=X5m8h8OIUds&ab_channel=ShawOnTech
+
 This GitHub contains a lightweight GUI made in TKinter for demo purposes and the FR module only. I do not own the original codebase which included ReactNative.  
 
 Coded using Python; originally integrated into app using ReactNative; app tested using Android Studio; version control using GitLab.
