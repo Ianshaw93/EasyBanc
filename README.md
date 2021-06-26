@@ -21,4 +21,5 @@ Coded using Python; originally integrated into app using ReactNative; app tested
 * How to use camera on device
 * Exposure to ReactNative
 * Experience running expos and Android Studio
+* Version Control using GitLab
 
