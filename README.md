@@ -18,7 +18,7 @@ Coded using Python; originally integrated into app using ReactNative; app tested
 # What I Learned
 
 * Facial Recognition
-* How to use camera on device
+* How to integrate device camera 
 * Exposure to ReactNative
 * Experience running expos and Android Studio
 * Version Control using GitLab
