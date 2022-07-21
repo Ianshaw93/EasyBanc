@@ -10,7 +10,7 @@ Coded using Python; originally integrated into app using ReactNative; app tested
 # How it Works:
 * User registers credentials
 
-* 300 photos are taken of the user's face are taken to train the classifier.  The following photo shows myself being recognised following training on my face.
+* 300 photos of the user's face are taken to train the classifier.  The following photo shows myself being recognised following training on my face.
 
 * At login face is recognised and user logins into banking app.
 ![image](https://user-images.githubusercontent.com/76686112/123320924-494c1e00-d52a-11eb-8a56-a66daf32ef6e.png)
